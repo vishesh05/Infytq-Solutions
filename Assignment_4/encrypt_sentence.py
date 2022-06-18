@@ -21,4 +21,4 @@ def encrypt_sentence(sentence):
 
 sentence="The sun rises in the east"
 encrypted_sentence=encrypt_sentence(sentence)
-print(encrypted_sentence)
+print(encrypted_sentence) 
